@@ -12,3 +12,6 @@ List of featured products
 - Irish
   - coffee, whiskey, sugar and cream
   - price: 180
+
+- new featured product
+  - dark chocolate hummus
